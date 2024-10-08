@@ -9,10 +9,10 @@
     <link rel="shortcut icon" href="/icon.png" type="image/x-icon" />
 
     <!-- Styles -->
-    <link rel="stylesheet" href="./src/css/easy.css" />
+    <link rel="stylesheet" href="./src/css/hard.css" />
 
     <!-- Scripts -->
-    <script defer src="./src/js/easy.js"></script>
+    <script defer src="./src/js/hard.js"></script>
 
     <!-- Title -->
     <title>Memory Game | Zain Khoso</title>
@@ -21,16 +21,14 @@
     <div id="heading">
       <h1>Memory Game</h1>
     </div>
-
     <div id="dif">
       <h3>Difficulty</h3>
       <select id="difficulty" onchange="handleUrl(this.value)">
-        <option value="easy" selected disabled>Easy</option>
+        <option value="easy">Easy</option>
         <option value="standard">Standard</option>
-        <option value="hard">Hard</option>
+        <option value="hard" selected disabled>Hard</option>
       </select>
     </div>
-
     <div id="container">
       <div class="item" id="item1" onclick="clicked(this)">
         <img width="0" height="0" />
@@ -50,11 +48,40 @@
       <div class="item" id="item6" onclick="clicked(this)">
         <img width="0" height="0" />
       </div>
+      <div class="item" id="item7" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item8" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item9" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item10" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item11" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item12" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item13" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item14" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item15" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
+      <div class="item" id="item16" onclick="clicked(this)">
+        <img width="0" height="0" />
+      </div>
     </div>
-
     <div id="stats">
       <h2 id="src">Score: 0</h2>
-      <h2 id="atpt">Attempts: 3</h2>
+      <h2 id="atpt">Attempts: 5</h2>
     </div>
   </body>
 </html>
