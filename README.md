@@ -1,3 +1,9 @@
 # Memory Game
 
-This Memory Game was one of the first projects I built when I started learning frontend development. The game involves flipping over animal cards to match pairs, with increasing difficulty levels: easy, standard, and hard. It was developed using HTML, CSS, and JavaScript to create a fun, interactive experience for users.
+This memory game was one of the first projects I built as a new web developer. I’ve always been someone who enjoys challenges and constantly strives to improve.
+
+At the time, this project really pushed me to think like a programmer — it tested my JavaScript skills, strengthened my problem-solving mindset, and helped me grow into a more confident developer.
+
+---
+
+Made with Problem Solving by [Zain Khoso](https://linkedin.com/in/zain-khoso)
