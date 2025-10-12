@@ -6,4 +6,4 @@ At the time, this project really pushed me to think like a programmer — it tes
 
 ---
 
-Made with Problem Solving by [Zain Khoso](https://linkedin.com/in/zain-khoso)
+Made with Problem Solving by [Zain Khoso](https://zain-khoso.vercel.app)
